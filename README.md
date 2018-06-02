@@ -10,7 +10,7 @@ Curated list of Free SWAG designs on unix, linux, programming and open source, b
 
 ## Contents
 
-Some of the designs you can find in the repository:
+Some of the designs you can find in the repository are listed below.
 
 Linux:
 * Tux
