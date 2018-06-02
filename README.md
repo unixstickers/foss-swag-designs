@@ -1,4 +1,4 @@
-# Free Foss SWAG Designs
+# Free FOSS & Related SWAG Designs
 
 Curated list of Free SWAG designs on unix, linux, programming and open source, brought to you by [Unixstickers](https://www.unixstickers.com) and [Sticker Mule](https://www.stickermule.com).
 
