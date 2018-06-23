@@ -13,11 +13,13 @@ Curated list of Free SWAG designs on unix, linux, programming and open source, b
 Some of the designs you can find in the repository are listed below.
 
 Linux:
+
 * Tux
 * Linux inside
 * Gnome
 
 Distros:
+
 * Ubuntu
 * Debian
 * Fedora
@@ -26,6 +28,7 @@ Distros:
 * xubuntu
 
 Programming languages and Softwares:
+
 * Javascript
 * PHP
 * Ruby
@@ -64,6 +67,10 @@ Stickers to replace the vendor symbol in your keyboard (like that of your Window
 
 Stickers with custom shapes that are best printed as kiss cut or die cut stickers.
 
+#### Sticker Sheets
+
+Sheets that include a selection of stickers.
+
 #### Transfer Stickers for Mac
 
 Transfer sticker designs that are optimized for the back of your Mac.
@@ -75,7 +82,6 @@ A selection of FOSS-related transfer sticker designs.
 #### Wall Stickers
 
 A selection of designs that are optimized to be printed as wall stickers.
-
 
 ## Contributing
 
