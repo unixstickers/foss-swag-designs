@@ -4,7 +4,7 @@ Curated list of Free SWAG designs on unix, linux, programming and open source, b
 
 ## Usage
 
-* Check if your favorite designs are available for order at [Unixstickers](https://www.unixstickers.com)
+* Check if your favorite designs are available for order at [Unixstickers](https://www.stickermule.com/unixstickers)
 * Browse the repository and download your favorite sticker and button designs
 * Head over to [Sticker Mule](https://www.stickermule.com) and start printing!
 
